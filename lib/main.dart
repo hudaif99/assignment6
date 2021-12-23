@@ -51,17 +51,17 @@ class _mainpageState extends State<mainpage> {
             Container(
               color: Colors.red,
               height: 80,
-              width: 160,
+              width: 140,
 
             ),
             Container(
               color: Colors.white,
-              width: 160,
+              width: 140,
               height: 30,
             ),
             Container(
               color: Colors.red,
-              width: 160,
+              width: 140,
               height: 80,
             )
           ],
